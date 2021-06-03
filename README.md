@@ -23,4 +23,4 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 <br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrayanTorres2&show_icons=true&locale=en&title_color=ffb300&icon_color=ffb300&bg_color=dddddd" alt="BrayanTorres" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrayanTorres2&show_icons=true&locale=en&title_color=ffb300&icon_color=ffb300&bg_color=81D34B" alt="BrayanTorres" /></p>
