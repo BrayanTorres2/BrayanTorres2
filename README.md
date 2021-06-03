@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**BrayanTorres2/BrayanTorres2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Soy desarrollador, músico y administrador de empresas!
+🔨 ¡Estoy abierto a nuevas oportunidades laborales!
+🤝 Busco colaborar en proyectos de código abierto.
+Idiomas y herramientas:
+JavaScript
 
-Here are some ideas to get you started:
+Gatsby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+
+GraphQL
+
+Reaccionar
+
+Node.js
+
+MongoDB
+
+MySQL
+
+Hablar con descaro a
+
+CSS3
+
+HTML5
+
+Git
+
+Estibador
+
+GitHub
+
+Código de Visual Studio
+
+HTML5
