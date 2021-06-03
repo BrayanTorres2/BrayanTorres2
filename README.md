@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-¡Soy desarrollador, Ingeniero y amante de la programación y en mis tiempos libres profesor!
-- 🤝 Busco colaborar en proyectos de código abierto.
+¡I am a developer, engineer and programming lover and in my spare time I am a teacher!!
+- 🤝I’m looking to collaborate on Open Source projects.
 ### Languages and Tools:
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
