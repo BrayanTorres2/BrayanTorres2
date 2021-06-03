@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 ¡Soy desarrollador, Ingeniero y amante de la programación !
-- 🔨 ¡Estoy abierto a nuevas oportunidades laborales!
 - 🤝 Busco colaborar en proyectos de código abierto.
 ### Languages and Tools:
-
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
