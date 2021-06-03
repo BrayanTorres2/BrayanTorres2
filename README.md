@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-¡Soy desarrollador, Ingeniero y amante de la programación !
+¡Soy desarrollador, Ingeniero y amante de la programación y en mis tiempos libres profesor!
 - 🤝 Busco colaborar en proyectos de código abierto.
 ### Languages and Tools:
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
