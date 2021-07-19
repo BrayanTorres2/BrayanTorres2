@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-¡I am a developer, engineer and programming lover and in my spare time I am a teacher!!
+I am a developer, engineer and programming lover and in my spare time I am a teacher
 - 🤝I’m looking to collaborate on Open Source projects.
 ### Connect with me:
 
