@@ -22,7 +22,7 @@ I am a developer, engineer and programming lover and in my spare time I am a tea
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-<br><br>
+<br><br><br>
 <div>
  <img align="left" width="210" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTorres2&show_icons=true&locale=en&title_color=81D34B&icon_color=81D34B&bg_color=dddddd"
 alt="BrayanTorres" />
