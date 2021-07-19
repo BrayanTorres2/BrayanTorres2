@@ -24,7 +24,9 @@ I am a developer, engineer and programming lover and in my spare time I am a tea
 </p>
 <br>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrayanTorres2&show_icons=true&locale=en&title_color=81D34B&icon_color=81D34B&bg_color=dddddd" alt="BrayanTorres" /><img align="center" width="210" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTorres2&show_icons=true&locale=en&title_color=81D34B&icon_color=81D34B&bg_color=dddddd"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrayanTorres2&show_icons=true&locale=en&title_color=81D34B&icon_color=81D34B&bg_color=dddddd" alt="BrayanTorres" />
+ <br>
+ <img align="center" width="210" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTorres2&show_icons=true&locale=en&title_color=81D34B&icon_color=81D34B&bg_color=dddddd"
 alt="BrayanTorres" />
 </p>
 
