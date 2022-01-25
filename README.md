@@ -5,7 +5,7 @@ I am a developer, engineer and programming lover and in my spare time I am a tea
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/brayantorres44"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://twitter.com/brayantorres44"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Brayantorres" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brayantorres/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
   
 ### Languages and Tools:
