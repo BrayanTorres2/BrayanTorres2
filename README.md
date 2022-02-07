@@ -9,6 +9,7 @@ I am a developer, engineer and programming lover and in my spare time I am a tea
 <a href="https://www.linkedin.com/in/brayantorres/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
   
 ### Languages and Tools:
+<div>  
 <p>
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
@@ -22,7 +23,7 @@ I am a developer, engineer and programming lover and in my spare time I am a tea
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-
+</div>
 <div align="center">
   <div>
     <a href="https://github.com/BrayanTorres2">
