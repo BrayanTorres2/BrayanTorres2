@@ -31,10 +31,4 @@ I am a developer, engineer and programming lover and in my spare time I am a tea
 </div> 
 </div>
 
-## Brayan Torres🤔🤡  
-  
-Profesor e ingeniero de sistemas
-  
-- First item
-- Second item
-- Third item
+
